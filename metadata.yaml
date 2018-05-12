@@ -1,0 +1,32 @@
+_repo: Grace-Harlowe-s-Third-Year-at-Overton-College_20473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Thompson, Ames
+    - Lester, Pauline
+    - Gordon, Grace
+    - Flower, Jessie Graham
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College stories'
+- !lcc 'PZ'
+- !lcsh 'Women college students -- Juvenile fiction'
+title: Grace Harlowe's Third Year at Overton College
+url: http://www.gutenberg.org/ebooks/20473
